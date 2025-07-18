@@ -37,7 +37,7 @@ A simple, high-performance airplane tracking dashboard.
 - C++17+ toolchain
 - Python 3.8+
 - FastAPI, Uvicorn
-- pybind11 (if using direct C++/Python bindings)
+- pybind11
 ---
 
 
